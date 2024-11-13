@@ -1,5 +1,4 @@
-// let apiKey = 'sk-proj-XKB2ACw3ImhbSEervL96T3BlbkFJXu2zrbkZFM5kQ88hbki8';
-let apiKey = 'sk-proj-TQA2rzfkgMhrnTTznFxWT3BlbkFJ4IZqmLMKtXNHGlK6ZjJG';
+let apiKey = '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'
 
 let sendButton = window.document.getElementById('sendButton');
 
